@@ -1,3 +1,4 @@
-exports.printMsg = function() {
-  console.log("Module works!")
+exports.getDistances = function(key) {
+  console.log("Module works with key : " + key)
+  return key
 }
