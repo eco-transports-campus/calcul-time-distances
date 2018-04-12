@@ -1,0 +1,23 @@
+{
+  "name": "calcul-time-distances",
+  "version": "1.0.0",
+  "description": "A module to calculate distance and time between 2 points with differents transport's way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eco-transports-campus/calcul-time-distances.git"
+  },
+  "keywords": [
+    "calcul-distance",
+    "transports"
+  ],
+  "author": "Vivien BLUM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eco-transports-campus/calcul-time-distances/issues"
+  },
+  "homepage": "https://github.com/eco-transports-campus/calcul-time-distances#readme"
+}
