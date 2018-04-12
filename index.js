@@ -1,3 +1,5 @@
+var axios = require("axios")
+
 exports.getDistances = (origins, destinations, mode, keyAPI) => {
   const url = "https://maps.googleapis.com/maps/api/distancematrix/json?"
   const urlAPI = `${url}mode=${mode}&origins=${origins}&destinations=${destinations}&key=${keyAPI}`
