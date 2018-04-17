@@ -1,8 +1,11 @@
+![Polytech Paris-sud](https://www.usinenouvelle.com/mediatheque/3/4/0/000268043_image_260x175.jpg)
 # calcul-time-distances
 A module to calcul time and distance between 2 points. Based on [Google Maps API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
 ## Install
-Run `npm install calcul-time-distances`
+```
+npm install calcul-time-distances
+```
 
 ## Example
 ```javascript
