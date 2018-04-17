@@ -2,6 +2,9 @@
 # calcul-time-distances
 A module to calcul time and distance between 2 points. Based on [Google Maps API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
+## Prerequisite
+You need to obtain an api key. [How to obtain API key ?](https://developers.google.com/maps/documentation/distance-matrix/get-api-key)
+
 ## Install
 ```
 npm install calcul-time-distances
