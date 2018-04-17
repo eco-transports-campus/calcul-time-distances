@@ -25,6 +25,11 @@ calculDisance.getDistances(
   console.log(data)
 })
 ```
+### Available modes
+- [x] driving
+- [x] walking
+- [x] bicycling
+- [ ] transit _(premium)_
 
 ## Returned value
 ```json
