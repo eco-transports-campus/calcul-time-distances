@@ -1,6 +1,6 @@
 {
   "name": "calcul-time-distances",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A module to calculate distance and time between 2 points with differents transport's way.",
   "main": "index.js",
   "scripts": {
