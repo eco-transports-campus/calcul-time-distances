@@ -21,7 +21,7 @@ calculDisance.getDistances(
   "Paris",  // Origin
   "Orsay",  // Destination
   "driving", // Mode
-  "AIzaSyD35qhFxfb4gzqB4a_egNd0z4JgmgCIUUY" // Api Key
+  "Your_API_KEY"
 ).then(data => {
   // Do something with data
   console.log(data)
